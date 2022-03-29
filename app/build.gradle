@@ -56,3 +56,4 @@ task archive(type: Zip) {
         "assignment_"+stdout.toString().trim()
     }() + ".zip"
 }
+
