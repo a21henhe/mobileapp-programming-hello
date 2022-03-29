@@ -9,7 +9,8 @@ Nästa steg var att jag sparade, addade till git, commitade och pushade upp till
 
 Den kodsträng som ändrats är följande attribut inuti TextView-taggen i app/src/main/res/layout/content_main.xml   :
 
-```'<TextView android:text="Tog mig för lång tid att hitta denna" />'
+```
+## <TextView android:text="Tog mig för lång tid att hitta denna" />
 
 ```
 
